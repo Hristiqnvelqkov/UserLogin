@@ -1,0 +1,11 @@
+/home/hristiyan/Desktop/UserLogin/bin/Debug/netcoreapp2.1/UserLogin.deps.json
+/home/hristiyan/Desktop/UserLogin/bin/Debug/netcoreapp2.1/UserLogin.runtimeconfig.json
+/home/hristiyan/Desktop/UserLogin/bin/Debug/netcoreapp2.1/UserLogin.runtimeconfig.dev.json
+/home/hristiyan/Desktop/UserLogin/bin/Debug/netcoreapp2.1/UserLogin.dll
+/home/hristiyan/Desktop/UserLogin/bin/Debug/netcoreapp2.1/UserLogin.pdb
+/home/hristiyan/Desktop/UserLogin/obj/Debug/netcoreapp2.1/UserLogin.csprojAssemblyReference.cache
+/home/hristiyan/Desktop/UserLogin/obj/Debug/netcoreapp2.1/UserLogin.csproj.CoreCompileInputs.cache
+/home/hristiyan/Desktop/UserLogin/obj/Debug/netcoreapp2.1/UserLogin.AssemblyInfoInputs.cache
+/home/hristiyan/Desktop/UserLogin/obj/Debug/netcoreapp2.1/UserLogin.AssemblyInfo.cs
+/home/hristiyan/Desktop/UserLogin/obj/Debug/netcoreapp2.1/UserLogin.dll
+/home/hristiyan/Desktop/UserLogin/obj/Debug/netcoreapp2.1/UserLogin.pdb
